@@ -8,7 +8,7 @@ import (
 func main() {
 	// Cara 1
 	var nama1 string
-	nama1 = "Will"
+	nama1 = "Wille"
 	// Cara 2
 	nama2 := "Willy"
 	fmt.Println(nama1, nama2)
